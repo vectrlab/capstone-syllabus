@@ -1,0 +1,339 @@
+---
+title: "Syllabus"
+book_filename: current-issues-capstone
+output:
+  html_document:
+    toc: yes
+    theme: united
+  pdf_document:
+    toc: no
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<p align="center">**San Jos&eacute; State University**</p>
+
+<p align="center">**Department of Psychology**</p>
+
+<p align="center">**PSYC 190: Current Issues Capstone: Human-Systems Integration in Cyber, Health, and Transport**</p>
+
+<p align="center">**Section 9, Spring 2022**</p>
+
+<p align="center">Last updated: `r format(Sys.time(), '%B %d, %Y')`</p>
+
+# This is a first draft syllabus and will continue to change before the start of the course!
+
+# Instructor Contact Information
+Instructor:	      David Schuster, Ph.D.
+
+Office Location:	DMH 315
+
+Telephone:	      408-924-5659
+
+Email:	          david.schuster@sjsu.edu
+
+Office Hours:	    11:45-12:30pm Tuesdays and Thursdays; I am also available for in-person and Zoom appointments
+
+# Course Information
+Classroom:	Clark Building 303A
+
+Class Days/Time:	Tues. & Thurs., 10:30am – 11:45am
+
+Prerequisite:	PSYC 100W
+
+Co/prerequisite:	PSYC 118 or PSYC 120
+
+This is a no-cost materials course.
+
+
+# Welcome!
+
+My name is Dr. David Schuster, and you are welcome to call me 'Dave,' 'David,' or 'Dr. Schuster.' My preferred pronouns are he/him/his. I have been teaching since 2008 and a professor at SJSU since 2013. I earned my Ph.D. in psychology from the University of Central Florida. I am looking forward to being your instructor as we explore how psychological research can increase the safety and effectiveness of human-machine systems.
+
+# Course Description
+In this capstone course, we will investigate how psychological research can be applied to large-scale systems of people and technology. We will focus on three important domains, cybersecurity, healthcare, and transportation. We will discover how they are similar and different from an applied research perspective. We will consider how different psychological perspectives inform solutions to societal problems. Through the process, you will practice and develop your skills as a researcher by developing a proposal for a new study. A major part of this course will involve reading, considering, and discussing scientific literature available to us from the King Library.
+
+The catalog description of this course is an: Integrative survey of current viewpoints and issues in psychology, how they developed and likely future directions of psychology. 
+
+This course builds on themes introduced in PSYC 173 (Human Factors) but does not require it.
+
+
+## Course Format
+
+Per the announcement from the campus president, from January 26 through February 11, this class will be taught in a fully remote modality. In-person instruction for this class will resume on February 15. I regret that we will not be able to start our class in person, and I will do my best to minimize disruption due to the modality shifts.
+
+This is a technology intensive course. Required technology is described in the [required materials section](#requiredmaterials) of this document.
+
+# Learning Outcomes {#learningoutcomes}
+
+## Program Learning Outcomes {#plos}
+Upon successful completion of the requirements for a major in psychology, students will be able to:
+
+-	PLO1 – Knowledge Base of Psychology – identify, describe, and communicate the major concepts, theoretical perspectives, empirical findings, and historical trends in psychology
+
+-	PLO2 – Research Methods in Psychology – design, implement, and communicate basic research methods in psychology, including research design, data analysis, and interpretations
+
+-	PLO3 – Critical Thinking Skills in Psychology – use critical and creative thinking, skeptical inquiry, and a scientific approach to address issues related to behavior and mental processes
+
+-	PLO4 – Application of Psychology – apply psychological principles to individual, interpersonal, group, and societal issues
+
+-	PLO5 – Values in Psychology – value empirical evidence, tolerate ambiguity, act ethically, and recognize their role and responsibility as a member of society
+
+Each assignment in this course maps onto one or more of these PLOs, with full coverage over all assignments in the course. PLOs 1-3 are emphasized in the first weeks of the course, and PLOs 2-5 are emphasized in the subsequent weeks of the course.
+
+## Course Learning Outcomes {#clos}
+
+The major goal of this course is to show students how applied psychological research informs practice in domains of human-technology interaction.
+
+Upon successful completion of this course, students will be able to:
+
+-	CLO1 - Describe human-systems integration, appropriately use its fundamental terminology, and describe its importance in the effectiveness of cybersecurity, transportation, and healthcare systems
+
+-	CLO2 - Apply research, principles, and methods of human factors to human-machine system design, system evaluation, and training in cybersecurity, transportation, and healthcare systems.
+
+-	CLO3 - Describe how cognitive psychology, perception, industrial/organizational psychology, and the science of learning inform human-systems integration.
+
+-	CLO4 – Develop a novel research study and describe its hypotheses, variables, design, expected results, and research question.
+
+The learning outcomes will be assessed via written assignments. 
+
+# Required Materials {#requiredmaterials}
+
+## Canvas and E-Mail
+
+All graded assignments will be accepted in electronic form using the Canvas learning management system assignments page (Canvas is available at https://sjsu.instructure.com/). Communication regarding the course will be posted to Canvas or sent via the e-mail address linked to your MySJSU account. It is your responsibility to make sure you are enrolled in Canvas and receiving my emails.
+ 
+## Required Texts/Readings
+
+There is no textbook required for this course. 
+
+We will learn and practice how to derive meaning from scientific literature. Readings will emphasize primary sources and include supplemental readings. All reading assignments and are linked in the syllabus and will be provided on Canvas.
+
+## Computer
+
+A laptop or tablet computer with Internet access will be necessary to participate in class activities and for your use outside of class. In lieu of a computer or tablet, a smartphone may be used but is unlikely to provide a good experience. You will need a keyboard. If you do not have a laptop or tablet computer available for this course, please meet with me to discuss free options for computer resources. I will work with you to find acceptable free computing resources.
+
+We may occasionally hold meetings and activities via <a href="https://sjsu.zoom.us">Zoom</a>. A webcam and microphone are recommended but not required. For your security, I recommend that you disable and cover your webcam when not in use.
+
+## Virtual Lab Environment {#virtuallab}
+
+This course may require occasional use of software such as R, Excel, Word, and SPSS. I will provide instruction in the use of the software; you do not need to start the course with this knowledge. You do *not* need to purchase licenses for any software.
+
+You will be provided with access to a [virtual lab environment](https://desktop.sjsu.edu) with this software already installed. Instructions to access the virtual lab are available on Canvas. If you prefer, these software packages are also available to you at no cost for use on your own computer:
+
+- [RStudio](https://www.rstudio.com)
+
+- [R](https://cran.r-project.org)
+
+- [SPSS](https://www.sjsu.edu/it/services/collaboration/software/instructions.php)
+
+- [G*Power](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower)
+
+- [Adobe Creative Cloud](https://www.sjsu.edu/ecampus/software-tools/teaching-tools/video-creative/adobe/students.php)
+
+- [Microsoft Office](https://www.office.com/getoffice365)
+
+- [Google Drive](https://sjsu.drive.google.com)
+ 
+# Grading Policy {#grading}
+
+## Determination of Grades
+
+Grades will be available to you on Canvas throughout the semester. Grades are assigned based on your final point total out of 1000 points for the course:
+
+--------------------------------------
+Grade                 Points
+--------------------- ----------------
+A plus	              > 965 points
+
+A	                    916 to 965 points
+
+A minus	              896 to 915 points
+
+B plus                866 to 895 points
+
+B	                    816 to 865 points
+
+B minus	              796 to 815 points
+
+C plus	              766 to 795 points
+
+C	                    716 to 765 points
+
+C minus	              696 to 715 points
+
+D plus	              666 to 695 points
+
+D	                    616 to 665 points
+
+D minus               595 to 615 points
+
+F	                    < 595 points
+--------------------------------------
+
+## Rounding is Included in the Grading Scale
+
+The point totals reflect rounding up to the nearest percentage. For example, an A- would normally require 900 points (or 90% of 1000 points). With rounding, it only requires 896 points (or 89.6% of 1000 points). Because rounding is built into the grading scale, your grade will be based on your final point total, rounded to the nearest whole point (so, 895.6 points is an A-, but 895.4 points is a B+). To be fair to everyone in the class, these are firm cutoffs.
+
+# Course Requirements and Assignments {#assignments}
+
+## Weekly Reflection Assignments (35% of grade = 350 points)
+A weekly reflection assignment will be available on each week’s topic on Canvas. Weekly reflection assignments will be worth a total of 400 grade points. Each assignment will be graded satisfactory/unsatisfactory according to the rubric posted to Canvas. Unsatisfactory assignments will receive feedback and can be resubmitted during the semester without a grade penalty. Maps to CLO1-4.
+
+## Proposal Milestone Assignments (40% of grade = 400 points)
+You will design an original qualitative or quantitative research proposal that could improve health, safety, or cybersecurity. The proposal will be completed as a series of milestone assignments that will add up to 400 points. The first few assignments will support your literature review project, and the remaining assignments will support the full proposal paper. Each assignment will be graded according to the rubric posted to Canvas. You will receive feedback on these assignments and have the option to resubmit without a grade penalty. Maps to CLO2 and CLO4.
+
+## Literature Review Paper or Presentation (10% of grade = 100 points)
+You will be asked to present your literature review at a scientific conference in the form of an oral presentation, poster, or paper. Your presentation must include all required elements described in the directions on Canvas; complete presentations will receive full credit. Note that this assignment may not be repeated. Maps to CLO4.
+
+## Proposal Paper or Presentation (10% of grade = 100 points)
+You will be asked to present your final proposal at a scientific conference in the form of an oral presentation, poster, or paper. Your presentation must include all required elements described in the directions on Canvas; complete presentations will receive full credit. Note that this assignment may not be repeated. Maps to CLO4.
+
+## SPARC (5% of grade = 50 points)
+Attend SPARC or another conference relevant to our course this semester.
+
+
+## Description of Capstone Requirements
+As a capstone course, the following requirements will be met:
+
+- 	Demonstrated Learning Requirement: Students will develop a viable, original research study.
+
+- Competence in oral and written communication: Students will author a proposal describing their study and present their proposal in the form of an oral presentation.
+
+- Integration of skills across the major: Students will use skills developed throughout their degree to develop an original study. The course will explicitly consider how cognitive psychology, perception, social psychology, industrial/organizational psychology and the science of learning inform human-systems integration research.
+
+- Library use: All source materials are available in the library. Students will use the library to find additional references.
+
+- Critical evaluation of literature and research reports will be emphasized in class and small-group discussions.
+
+- Application of existing literature to human-systems integration is a central skill developed in the course.
+
+- Deliverables include a paper and presentation incorporating critical evaluation of literature.
+
+
+## Resubmission, Make-ups, and Grading Process {#makeup}
+
+### You can resubmit graded assignments without penalty.
+
+Any assignment that receives a grade of unsatisfactory/no credit or a letter grade may be revised and resubmitted. Assignments may be submitted at any time until 11:59pm on the last day of instruction for the semester. At that time, all unsubmitted and unsatisfactory/no credit assignments will receive zero points. Should an event prevent you from completing the course, contact me as soon as you are able to discuss our options for an incomplete.
+
+### We will work together on make-ups of scheduled activities.
+
+Class activities that are scheduled, such as a guest speaker, cannot be recreated easily. If you miss or expect to miss a scheduled class activity or assignment, complete the form to request a makeup or extension.
+
+
+## Final examination or evaluation {#final}
+
+Faculty members are required to have a culminating activity for their courses, which can include a final examination, a final research paper or project, a final creative work or performance, a final portfolio of work, or other appropriate assignment.
+
+The culminating activity for this course will be the proposal presentation or paper.
+
+# Classroom Environment {#environment}
+
+We agree to:
+
+-	**Mutual respect**, which means that we recognize and value that we bring different skills, experiences, and qualities to our course, and we act with regard for how our behavior affects others. As much as we can, we recognize and accommodate individual constraints that impact our work. Some ways we will show mutual respect include:
+    + Affirming that intolerance, including racism, sexism, xenophobia, transphobia, and homophobia will not be acceptable in the physical and digital spaces that make up our course. 
+  
+    + Respecting our and others’ intellectual property. For students, this includes not sharing or posting copyrighted class materials. For instructors, this includes seeking permission before sharing or posting student work (unless for an educational purpose, checking for or responding to academic dishonesty, or due to legal action). Your work may be sent to turnitin.com and processed through search engines to detect plagiarism. However, I will not allow turnitin.com to store your work in their repository.
+  
+    + We understand that we have multiple obligations and limited time. Our meetings will start promptly at times convenient for both of us.
+  
+    + We understand that we are all doing our best as we face our own challenges. I will expect that you put in reasonable effort on your assignments. You can expect patience and help whenever you struggle with course material. And, I am always available to meet with you should life events impact your progress in the course or success in your program.
+
+- **Academic and professional integrity**, which means that the credibility of science and education depends on us acting ethically. Ethical violations by us or our collaborators can jeopardize our research and harm our reputation as researchers. We also know that we cannot act ethically if we do not understand what that means for researchers. Therefore, it is important that research ethics are part of your learning in this class. You can expect support and guidance when you navigate and speak up on challenging ethical situations. You can also expect no tolerance of ethical or academic integrity violations that negatively affect our class or community, including cheating and plagiarism. You can expect your instructor to follow all University policies and protocols regarding the handling of suspected academic dishonesty. Penalties can include failure of the course.
+
+-	**Unlimited support** related to the class or your professional training and development. This means that there is no limit to the number of questions you may ask, e-mails you may send, and no restriction on the hours you can spend in meetings with me. You need never apologize for asking a question or seeking support. Time is limited but support is not; if the volume of student meetings were to become unmanageable, I will make adjustments to help all students more efficiently (for example, by answering a common question to the whole class). I am always happy to help you.
+
+-	**Incorporation of issues of social justice**. It is my goal to help prepare you to tackle the major societal challenges we face, including COVID-19 and broader issues of equity and sustainability. Success against these challenges requires equitable participation by people of diverse backgrounds and experiences. To support this goal, this course will incorporate discussion of social justice when relevant to the course and support your evaluation of how our discipline has/can/will address social justice, as well as how it has contributed to social injustice. 
+
+# University Policies {#policies}
+
+Per [University Policy S16-9](http://www.sjsu.edu/senate/docs/S16-9.pdf),relevant university policy concerning all courses, such as student responsibilities, academic integrity, accommodations, dropping and adding, consent for recording of class, etc. and available student services (e.g. learning assistance, counseling, and other resources) are listed on [Syllabus Information web page](https://www.sjsu.edu/curriculum/courses/syllabus-info.php). Make sure to visit this page to review and be aware of these university policies and resources.
+
+You must obtain the instructor’s permission to make any audio or video recordings in this class.
+
+Success in this course is based on the expectation that students will spend, for each unit of credit, a minimum of 45 hours over the length of the course (normally three hours per unit per week) for instruction, preparation/studying, or course related activities, including but not limited to internships, labs, and clinical practica. Other course structures will have equivalent workload expectations as described in the syllabus. 
+
+# Library Liaison 
+Our library liaison is Christa Bailey. Email: christa.bailey@sjsu.edu
+
+# Additional Information
+All assignments in this course should be submitted in APA format. The writing requirement is described above.
+
+# Course Schedule {#schedule}
+
+The course schedule is tentative and likely to change; modifications will be posted to this page.
+
+--------------------------------------------------------------------------------------------
+Week Date                   Topics                                                          
+---- ---------------------- --------------------------------------------------------------- 
+1	    Thu., Jan. 27	        Introduction    
+
+2	    Tue., Feb. 1          Applied research methods   
+
+      Thu., Feb. 3	        
+      
+3	    Tue., Feb. 8          Sociotechnical systems and modeling                               
+      
+      Thu., Feb. 10	        
+
+4	    Tue., Feb. 15         Simulation and training    
+      
+      Thu., Feb. 17	        
+
+5	    Tue., Feb. 22         Design, usability, and user experience     
+
+      Thu., Feb. 24	        
+
+6	    Tue., Mar. 1          Patient safety                        
+
+      Thu., Mar. 3	        
+
+7	    Tue., Mar. 8          Digital health, telemetry, and telepresence                           
+
+      Thu., Mar. 10	        
+
+8	    Tue., Mar. 15         Medical product design                        
+
+      Thu., Mar. 17	        
+
+9	    Tue., Mar. 22         Literature review presentations                                  
+
+      Thu., Mar. 24	        
+      
+X	    Tue., Mar. 29         Human performance: Workload, motion sickness, fatigue, sustained attention
+
+      Thu., Mar. 31	        
+
+10	  Tue., Apr. 5          Automation: mental models, levels of automation, autonomous vehicles, mode confusion, glass cockpit, autoflight systems, teaming                                  
+      Thu., Apr. 7	        
+
+11	  Tue., Apr. 12         Airspace coordination: ATC, NextGen, UVs, urban mobility                                                    
+
+      Thu., Apr. 14	        
+
+12	  Tue., Apr. 19         Cybersecurity at work: Cybersecurity professionals                                            
+      Thu., Apr. 21	        
+
+13	  Tue., Apr. 26          Cyber workforce shortage and skills gap, automation and orchestration                                                
+
+      Thu., Apr. 28	         
+
+14	  Tue., May 3           Cybersecurity in daily life: Cyber hygiene, privacy, usability, trust                                                   
+
+      Thu., May 5	        
+
+15	  Tue., May 10           Proposal workshop  
+
+      Thu., May 12	         
+
+End   Mon., May 16          Last day of instruction, assignment submission ends 11:59 pm
+
+Final Fri., May 20	        Proposal presentations, 9:45am - 12:00pm
+------------------------------------------------------------------------------------------
+
+
+
