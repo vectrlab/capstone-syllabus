@@ -284,45 +284,46 @@ Week Date                   Topics
       
       Thu., Feb. 17	        
 
-5	    Tue., Feb. 22         Design, usability, and user experience     
+5	    Tue., Feb. 22         Decision making among cybersecurity professionals   
 
       Thu., Feb. 24	        
 
-6	    Tue., Mar. 1          Patient safety                        
+6	    Tue., Mar. 1          Medical product design                          
 
       Thu., Mar. 3	        
 
-7	    Tue., Mar. 8          Digital health, telemetry, and telepresence                           
+7	    Tue., Mar. 8          Patient safety                          
 
       Thu., Mar. 10	        
 
-8	    Tue., Mar. 15         Medical product design                        
-
+8	    Tue., Mar. 15         Digital health, telemetry, and telepresence 
+                  
       Thu., Mar. 17	        
 
-9	    Tue., Mar. 22         Literature review presentations                                  
+9	    Tue., Mar. 22         Automation: mental models, levels of automation, autonomous vehicles, mode confusion, glass cockpit, autoflight systems, teaming                        
 
       Thu., Mar. 24	        
       
-X	    Tue., Mar. 29         Human performance: Workload, motion sickness, fatigue, sustained attention
+   	  Tue., Mar. 29         Spring Break (no class)
 
       Thu., Mar. 31	        
 
-10	  Tue., Apr. 5          Automation: mental models, levels of automation, autonomous vehicles, mode confusion, glass cockpit, autoflight systems, teaming                                  
-      Thu., Apr. 7	        
+10	  Tue., Apr. 5          Human performance: Workload, motion sickness, fatigue, sustained attention
 
-11	  Tue., Apr. 12         Airspace coordination: ATC, NextGen, UVs, urban mobility                                                    
+      Thu., Apr. 7	         
+
+11	  Tue., Apr. 12         Literature review presentations                                                   
 
       Thu., Apr. 14	        
 
-12	  Tue., Apr. 19         Cybersecurity at work: Cybersecurity professionals                                            
+12	  Tue., Apr. 19          Airspace coordination: ATC, NextGen, UVs, urban mobility      
+
       Thu., Apr. 21	        
 
-13	  Tue., Apr. 26          Cyber workforce shortage and skills gap, automation and orchestration                                                
-
+13	  Tue., Apr. 26          Cyberspace as a sociotechnical system: Cyber workforce, encryption, threats, automation and orchestration                                                
       Thu., Apr. 28	         
 
-14	  Tue., May 3           Cybersecurity in daily life: Cyber hygiene, privacy, usability, trust                                                   
+14	  Tue., May 3            Cybersecurity in daily life: Cyber hygiene, privacy, usability, trust                                                   
 
       Thu., May 5	        
 
