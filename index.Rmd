@@ -12,7 +12,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-# This is a draft syllabus; Please expect further revisions
+## This is a draft syllabus; Please expect further revisions
 
 <p align="center">**San Jos&eacute; State University**</p>
 
