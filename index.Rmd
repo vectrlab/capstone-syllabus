@@ -34,10 +34,10 @@ Telephone:	      408-924-5659
 
 Email:	          david.schuster@sjsu.edu
 
-Office Hours:	    11:45-12:30pm Tuesdays and Thursdays; I am also available for in-person and Zoom appointments
+Office Hours:	    11:45-12:30pm Tuesdays and Thursdays on [Zoom](https://sjsu.zoom.us/j/84863443397?pwd=M3RxK05QS3VjRVFCcWhBblpFODd4QT09) or by phone. I can also meet by appointment.
 
 # Course Information
-Classroom:	Clark Building 303A
+Classroom:	Online through February 11, then Clark Building 303A
 
 Class Days/Time:	Tues. & Thurs., 10:30am – 11:45am
 
@@ -62,7 +62,7 @@ This course builds on themes introduced in PSYC 173 (Human Factors) but does not
 
 ## Course Format
 
-Per the announcement from the campus president, from January 26 through February 11, this class will be taught in a fully remote modality. In-person instruction for this class will resume on February 15. I regret that we will not be able to start our class in person, and I will do my best to minimize disruption due to the modality shifts.
+Per the announcement from the campus president, from January 26 through February 11, this class will be taught in a fully remote modality. During this time, office hours will be held electronically In-person instruction for this class will resume on February 15. I regret that we will not be able to start our class in person, and I will do my best to minimize disruption due to the modality shifts.
 
 This is a technology intensive course. Required technology is described in the [required materials section](#requiredmaterials) of this document.
 
@@ -179,26 +179,22 @@ The point totals reflect rounding up to the nearest percentage. For example, an 
 
 # Course Requirements and Assignments {#assignments}
 
-## Weekly Reflection Assignments (35% of grade = 350 points)
-A weekly reflection assignment will be available on each week’s topic on Canvas. Weekly reflection assignments will be worth a total of 400 grade points. Each assignment will be graded satisfactory/unsatisfactory according to the rubric posted to Canvas. Unsatisfactory assignments will receive feedback and can be resubmitted during the semester without a grade penalty. Maps to CLO1-4.
+## Weekly Reflection Assignments (45% of grade = 450 points)
+A weekly reflection assignment will be available on each week’s topic on Canvas. Ten reflection assignments will be worth 55 points each, for a total of 550 points. Each assignment will be graded satisfactory/unsatisfactory according to the rubric posted to Canvas. Unsatisfactory assignments will receive feedback and can be resubmitted during the semester without a grade penalty. Maps to CLO1-4.
 
-## Proposal Milestone Assignments (40% of grade = 400 points)
-You will design an original qualitative or quantitative research proposal that could improve health, safety, or cybersecurity. The proposal will be completed as a series of milestone assignments that will add up to 400 points. The first few assignments will support your literature review project, and the remaining assignments will support the full proposal paper. Each assignment will be graded according to the rubric posted to Canvas. You will receive feedback on these assignments and have the option to resubmit without a grade penalty. Maps to CLO2 and CLO4.
+## Literature Review Paper or Presentation (20% of grade = 200 points)
+You will prepare a literature review on a human-systems integration research topic. The literature review will be used for your proposal assignment. You will be asked to present your literature review in the form of a presentation or paper and put together an annotated bibliography. Your literature review will be shared with the class and our guest speakers. Note that, unlike the weekly reflection assignments, this assignment may not be resubmitted. However, I will offer you early feedback so that you can anticipate your grade. Maps to CLO2 and CLO4.
 
-## Literature Review Paper or Presentation (10% of grade = 100 points)
-You will be asked to present your literature review at a scientific conference in the form of an oral presentation, poster, or paper. Your presentation must include all required elements described in the directions on Canvas; complete presentations will receive full credit. Note that this assignment may not be repeated. Maps to CLO4.
+## Proposal Paper or Presentation (30% of grade = 300 points)
+You will prepare a proposal for a novel human-systems integration study. You will be asked to present your proposal in the form of a presentation or paper and put together an extended abstract. Your proposal will be shared with the class and our guest speakers. Note that, unlike the weekly reflection assignments, this assignment may not be resubmitted. However, I will offer you early feedback so that you can anticipate your grade. Maps to CLO2 and CLO4.
 
-## Proposal Paper or Presentation (10% of grade = 100 points)
-You will be asked to present your final proposal at a scientific conference in the form of an oral presentation, poster, or paper. Your presentation must include all required elements described in the directions on Canvas; complete presentations will receive full credit. Note that this assignment may not be repeated. Maps to CLO4.
-
-## SPARC (5% of grade = 50 points)
-Attend SPARC or another conference relevant to our course this semester.
-
+## Research Engagement: Attend a Conference (5% of grade = 50 points)
+Attend the free Spartan Annual Research Conference SPARC or another conference relevant to our course this semester. Alternative conference and assignment options, such as research participation, will be announced in class. You may also suggest an alternative assignment, and I will work with you to pre-approve a relevant assignment of similar effort. Maps to CLO1 and CLO3.
 
 ## Description of Capstone Requirements
 As a capstone course, the following requirements will be met:
 
-- 	Demonstrated Learning Requirement: Students will develop a viable, original research study.
+- Demonstrated Learning Requirement: Students will develop a viable, original research study.
 
 - Competence in oral and written communication: Students will author a proposal describing their study and present their proposal in the form of an oral presentation.
 
@@ -213,16 +209,19 @@ As a capstone course, the following requirements will be met:
 - Deliverables include a paper and presentation incorporating critical evaluation of literature.
 
 
-## Resubmission, Make-ups, and Grading Process {#makeup}
+## Resubmission and Extensions Make-ups, and Grading Process {#makeup}
 
-### You can resubmit graded assignments without penalty.
+### You can request an extension.
 
-Any assignment that receives a grade of unsatisfactory/no credit or a letter grade may be revised and resubmitted. Assignments may be submitted at any time until 11:59pm on the last day of instruction for the semester. At that time, all unsubmitted and unsatisfactory/no credit assignments will receive zero points. Should an event prevent you from completing the course, contact me as soon as you are able to discuss our options for an incomplete.
+Assignments not submitted by the due date posted on Canvas will be assigned a grade of zero unless you complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSepJUy_f3Y2WXoCHIAHd_5hUgq3KBK6nc8mkMCvP6_vfc41Cw/viewform?usp=sf_link) to request an extension or makeup of the assignment. When you need an extension, please complete this form as soon as you can.
+
+### You can resubmit weekly reflection assignments without penalty.
+
+Any weekly reflection assignment that receives a grade of unsatisfactory/no credit may be revised and resubmitted. Assignments may be resubmitted at any time until 11:59pm on the last day of instruction for the semester. At that time, all unsubmitted and unsatisfactory/no credit assignments will receive zero points. Should an event prevent you from completing the course, contact me as soon as you are able to discuss our options for an incomplete. Please allow one week for grading submitted assignments.
 
 ### We will work together on make-ups of scheduled activities.
 
-Class activities that are scheduled, such as a guest speaker, cannot be recreated easily. If you miss or expect to miss a scheduled class activity or assignment, complete the form to request a makeup or extension.
-
+Class activities that are scheduled, such as a guest speaker, cannot be recreated easily. If you need a makeup assignment (e.g., you will miss the talk needed to complete an assignment, or even if you had life events and could not focus on the talk), please contact me. I will work with you to create an alternative assignment. There is no need to pretend you attended an activity that you missed.
 
 ## Final examination or evaluation {#final}
 
@@ -274,35 +273,34 @@ Week Date                   Topics
 
 2	    Tue., Feb. 1          Applied research methods   
 
-      Thu., Feb. 3	        
+      Thu., Feb. 3	        Funding opportunities
       
 3	    Tue., Feb. 8          Sociotechnical systems and modeling                               
       
-      Thu., Feb. 10	        
+      Thu., Feb. 10	        Elements of a research proposal
 
 4	    Tue., Feb. 15         Simulation and training    
       
-      Thu., Feb. 17	        
+      Thu., Feb. 17	        Publication ethics
 
 5	    Tue., Feb. 22         Decision making among cybersecurity professionals   
 
-      Thu., Feb. 24	        
+      Thu., Feb. 24	        Finding and reading literature 
 
 6	    Tue., Mar. 1          Medical product design                          
 
-      Thu., Mar. 3	        
+      Thu., Mar. 3	        Citing literature 
 
-7	    Tue., Mar. 8          Patient safety                          
+7	    Tue., Mar. 8          Patient safety                         
 
-      Thu., Mar. 10	        
+      Thu., Mar. 10	        Guest speaker: Margaret De Jesus, Varian
 
 8	    Tue., Mar. 15         Digital health, telemetry, and telepresence 
                   
-      Thu., Mar. 17	        
+      Thu., Mar. 17	        Summarizing the literature and identifying research needs 
 
-9	    Tue., Mar. 22         Automation: mental models, levels of automation, autonomous vehicles, mode confusion, glass cockpit, autoflight systems, teaming                        
-
-      Thu., Mar. 24	        
+9	    Tue., Mar. 22         Automation: mental models, levels of automation, autonomous vehicles, mode confusion, glass cockpit, autoflight systems, teaming (Proposal Milestone 3 due)                       
+      Thu., Mar. 24	        Guest speaker: Randall Mumaw, NASA Ames [or Tues.]
       
    	  Tue., Mar. 29         Spring Break (no class)
 
@@ -310,22 +308,23 @@ Week Date                   Topics
 
 10	  Tue., Apr. 5          Human performance: Workload, motion sickness, fatigue, sustained attention
 
-      Thu., Apr. 7	         
+      Thu., Apr. 7	        
 
 11	  Tue., Apr. 12         Literature review presentations                                                   
 
       Thu., Apr. 14	        
 
-12	  Tue., Apr. 19          Airspace coordination: ATC, NextGen, UVs, urban mobility      
+12	  Tue., Apr. 19         Airspace coordination: ATC, NextGen, UVs, urban mobility; Planning a study      
 
-      Thu., Apr. 21	        
+      Thu., Apr. 21	        Guest speaker: Lauren Claudatos, NASA Ames
 
-13	  Tue., Apr. 26          Cyberspace as a sociotechnical system: Cyber workforce, encryption, threats, automation and orchestration                                                
-      Thu., Apr. 28	         
+13	  Tue., Apr. 26         Cyberspace as a sociotechnical system: Cyber workforce, encryption, threats, automation and orchestration (Proposal Milestone 4 due)   
 
-14	  Tue., May 3            Cybersecurity in daily life: Cyber hygiene, privacy, usability, trust                                                   
+      Thu., Apr. 28	        Scientific merit, societal impact, and implications for practice 
 
-      Thu., May 5	        
+14	  Tue., May 3            Cybersecurity in daily life: Cyber hygiene, privacy, usability, trust                                                  
+
+      Thu., May 5	           Assembing your proposal
 
 15	  Tue., May 10           Proposal workshop  
 
