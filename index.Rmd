@@ -46,6 +46,11 @@ Co/prerequisite:	PSYC 118 or PSYC 120
 
 This is a no-cost materials course.
 
+## How to Attend Class in Zoom
+
+We will meet synchronously at our scheduled class time starting **January 27, 2022**.
+
+You will need Zoom installed on your computer, and you will need to sign in with your SJSU account. I will post the Zoom link on Canvas before the first day of class. 
 
 # Welcome!
 
@@ -106,13 +111,13 @@ All graded assignments will be accepted in electronic form using the Canvas lear
 
 ## Zoom
 
-We will have syncronous class meetings via <a href="https://sjsu.zoom.us">Zoom</a>. A webcam and microphone are recommended but not required. For your security, I recommend that you disable your webcam when not in use.
+We will have synchronous class meetings via <a href="https://sjsu.zoom.us">Zoom</a>. A webcam and microphone are recommended but not required. For your security, I recommend that you disable your webcam when not in use.
  
 ## Required Texts/Readings
 
 There is no textbook required for this course. 
 
-We will learn and practice how to derive meaning from scientific literature. Readings will emphasize primary sources and include supplemental readings. All reading assignments and are linked in the syllabus and will be provided on Canvas.
+We will learn and practice how to derive meaning from scientific literature. Readings will emphasize primary sources and include supplemental readings. All reading assignments  will be provided on Canvas.
 
 ## Computer
 
