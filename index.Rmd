@@ -285,9 +285,9 @@ Week Date                   Topics
       
       Thu., Feb. 10	        
 
-4	    Tue., Feb. 15         Simulation and training; Publication ethics    
+4	    Tue., Feb. 15         Guest speaker, Thomas Alicia, U.S. Army Aviation Development Directorate     
       
-      Thu., Feb. 17	        
+      Thu., Feb. 17	        Simulation and training; Publication ethics
 
 5	    Tue., Feb. 22         Decision making among cybersecurity professionals; Finding and reading literature   
 
@@ -307,7 +307,7 @@ Week Date                   Topics
 
 9	    Tue., Mar. 22         Automation: mental models, levels of automation, autonomous vehicles, mode confusion, glass cockpit, autoflight systems, teaming
 
-      Thu., Mar. 24	        Guest speaker: Randall Mumaw, NASA Ames [tentative]
+      Thu., Mar. 24	        Guest speaker: Randall Mumaw, NASA Ames
       
 SR	  Tue., Mar. 29         Spring Recess (no class)
 
