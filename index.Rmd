@@ -2,17 +2,16 @@
 title: "Syllabus"
 book_filename: current-issues-capstone
 output:
-  pdf_document:
-    toc: no
   html_document:
     toc: yes
     theme: united
+  pdf_document:
+    toc: no
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-## This is a draft syllabus; Please expect further revisions
 
 <p align="center">**San Jos&eacute; State University**</p>
 
@@ -48,9 +47,9 @@ This is a no-cost materials course.
 
 ## How to Attend Class in Zoom
 
-We will meet synchronously at our scheduled class time starting **January 27, 2022**.
+We will meet synchronously online at our scheduled class time starting **January 27, 2022**.
 
-You will need Zoom installed on your computer, and you will need to sign in with your SJSU account. I will post the Zoom link on Canvas before the first day of class. 
+You will need Zoom installed on your computer, and you will need to sign in with your SJSU account. The link to our class meeting on Zoom is on Canvas. Look for the link in the Week 1 module.
 
 # Welcome!
 
@@ -185,8 +184,8 @@ The point totals reflect rounding up to the nearest percentage. For example, an 
 
 # Course Requirements and Assignments {#assignments}
 
-## Weekly Reflection Assignments (45% of grade = 450 points)
-A weekly reflection assignment will be available on each week’s topic on Canvas. Ten reflection assignments will be worth 55 points each, for a total of 550 points. Each assignment will be graded satisfactory/unsatisfactory according to the rubric posted to Canvas. Unsatisfactory assignments will receive feedback and can be resubmitted during the semester without a grade penalty. Maps to CLO1-4.
+## Weekly Reflection Assignments (45% of grade = 451 points)
+A weekly reflection assignment will be available on each week’s topic on Canvas. Eleven reflection assignments will be worth 41 points each, for a total of 451 points. Each assignment will be graded satisfactory/unsatisfactory according to the rubric posted to Canvas. Unsatisfactory assignments will receive feedback and can be resubmitted during the semester without a grade penalty. Maps to CLO1-4.
 
 ## Literature Review Paper or Presentation (20% of grade = 200 points)
 You will prepare a literature review on a human-systems integration research topic. The literature review will be used for your proposal assignment. You will be asked to present your literature review in the form of a presentation or paper and put together an annotated bibliography. Your literature review will be shared with the class and our guest speakers. Note that, unlike the weekly reflection assignments, this assignment may not be resubmitted. However, I will offer you early feedback so that you can anticipate your grade. This assignment will be assessed according to the rubric posted to Canvas. Maps to CLO2 and CLO4.
@@ -195,7 +194,7 @@ You will prepare a literature review on a human-systems integration research top
 You will prepare a proposal for a novel human-systems integration study. You will be asked to present your proposal in the form of a presentation or paper and put together an extended abstract. Your proposal will be shared with the class and our guest speakers. Note that, unlike the weekly reflection assignments, this assignment may not be resubmitted. However, I will offer you early feedback so that you can anticipate your grade. This assignment will be assessed according to the rubric posted to Canvas. Maps to CLO2 and CLO4.
 
 ## Research Engagement: Attend a Conference (5% of grade = 50 points)
-Attend the free Spartan Annual Research Conference SPARC or another conference relevant to our course this semester. Alternative conference and assignment options, such as research participation, will be announced in class. You may also suggest an alternative assignment, and I will work with you to pre-approve a relevant assignment of similar effort. This assignment is graded for completion. Maps to CLO1 and CLO3.
+Attend the free Spartan Annual Research Conference SPARC or another conference relevant to our course this semester. Alternative conference and assignment options, such as research participation, will be announced in class. You may also suggest an alternative assignment, and I will work with you to pre-approve a relevant assignment of similar effort. The due date for this assignment This assignment is graded for completion. Maps to CLO1 and CLO3.
 
 ## Description of Capstone Requirements
 As a capstone course, the following requirements will be met:
