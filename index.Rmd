@@ -284,9 +284,9 @@ Week Date                   Topics
       
       Thu., Feb. 10	        
 
-4	    Tue., Feb. 15         Guest speaker, Thomas Alicia, U.S. Army Aviation Development Directorate     
+4	    Tue., Feb. 15         Simulation and training; Publication ethics     
       
-      Thu., Feb. 17	        Simulation and training; Publication ethics
+      Thu., Feb. 17	        
 
 5	    Tue., Feb. 22         Decision making among cybersecurity professionals; Finding and reading literature   
 
@@ -294,7 +294,7 @@ Week Date                   Topics
 
 6	    Tue., Mar. 1          Medical product design; Citing literature                          
 
-      Thu., Mar. 3	         
+      Thu., Mar. 3	        Guest speaker, Thomas Alicia, U.S. Army Technology Development Directorate 
 
 7	    Tue., Mar. 8          Patient safety                         
 
