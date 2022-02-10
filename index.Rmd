@@ -32,10 +32,10 @@ Telephone:	      408-924-5659
 
 Email:	          david.schuster@sjsu.edu
 
-Office Hours:	    11:45-12:30pm Tuesdays and Thursdays on [Zoom](https://sjsu.zoom.us/j/84863443397?pwd=M3RxK05QS3VjRVFCcWhBblpFODd4QT09) or by phone. I can also meet by appointment.
+Office Hours:	    11:45-12:30pm Tuesdays and Thursdays in person. I can also meet by appointment over [Zoom](https://sjsu.zoom.us/j/84863443397?pwd=M3RxK05QS3VjRVFCcWhBblpFODd4QT09) or by phone.
 
 # Course Information
-Classroom:	Online through February 11, then Clark Building 303A
+Classroom:	Clark Building 303A (formerly online)
 
 Class Days/Time:	Tues. & Thurs., 10:30am – 11:45am
 
@@ -45,11 +45,9 @@ Co/prerequisite:	PSYC 118 or PSYC 120
 
 This is a no-cost materials course.
 
-## How to Attend Class in Zoom
+## Notification of modality change
 
-We will meet synchronously online at our scheduled class time starting **January 27, 2022**.
-
-You will need Zoom installed on your computer, and you will need to sign in with your SJSU account. The link to our class meeting on Zoom is on Canvas. Look for the link in the Week 1 module.
+We met synchronously online at our scheduled class time starting January 27, 2022. Starting February 15, 2022, we will meet for class in person.
 
 # Welcome!
 
@@ -284,7 +282,7 @@ Week Date                   Topics
       
       Thu., Feb. 10	        
 
-4	    Tue., Feb. 15         Simulation and training; Publication ethics     
+4	    Tue., Feb. 15         Simulation and training; Publication ethics; **in-person class begins**     
       
       Thu., Feb. 17	        
 
@@ -328,7 +326,7 @@ SR	  Tue., Mar. 29         Spring Recess (no class)
 
       Thu., Apr. 28	        
 
-14	  Tue., May 3            Cybersecurity in daily life: Cyber hygiene, privacy, usability, trust; Assembing your proposal                                                  
+14	  Tue., May 3            Cybersecurity in daily life: Cyber hygiene, privacy, usability, trust; Assembling your proposal                                                  
 
       Thu., May 5	           
 
