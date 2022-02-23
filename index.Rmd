@@ -290,11 +290,11 @@ Week Date                   Topics
 
       Thu., Feb. 24	         
 
-6	    Tue., Mar. 1          Medical product design; Citing literature                          
+6	    Tue., Mar. 1          Decision making among cybersecurity professionals, continued                          
 
       Thu., Mar. 3	        Guest speaker, Thomas Alicia, U.S. Army Technology Development Directorate 
 
-7	    Tue., Mar. 8          Patient safety                         
+7	    Tue., Mar. 8          Medical product design; Citing literature; Patient safety                         
 
       Thu., Mar. 10	        Guest speaker: Margaret De Jesus, Varian
 
@@ -326,11 +326,11 @@ SR	  Tue., Mar. 29         Spring Recess (no class)
 
       Thu., Apr. 28	        
 
-14	  Tue., May 3            Cybersecurity in daily life: Cyber hygiene, privacy, usability, trust; Assembling your proposal                                                  
+14	  Tue., May 3           Cybersecurity in daily life: Cyber hygiene, privacy, usability, trust; Assembling your proposal                                                  
 
       Thu., May 5	           
 
-15	  Tue., May 10           Proposal workshop  
+15	  Tue., May 10          Proposal workshop  
 
       Thu., May 12	         
 
