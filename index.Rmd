@@ -296,13 +296,13 @@ Week Date                   Topics
 
 7	    Tue., Mar. 8          Medical product design; Citing literature; Patient safety                         
 
-      Thu., Mar. 10	        Guest speaker: Margaret De Jesus, Varian
+      Thu., Mar. 10	        No class meeting
 
-8	    Tue., Mar. 15         Digital health, telemetry, and telepresence; Summarizing literature and identifying research needs 
+8	    Tue., Mar. 15         HSI in Medicine: Error, teamwork, and digital health; Summarizing literature and identifying research needs 
                   
       Thu., Mar. 17	         
 
-9	    Tue., Mar. 22         Automation: mental models, levels of automation, autonomous vehicles, mode confusion, glass cockpit, autoflight systems, teaming
+9	    Tue., Mar. 22         Human-automation interaction in transportation
 
       Thu., Mar. 24	        Guest speaker: Randall Mumaw, NASA Ames
       
