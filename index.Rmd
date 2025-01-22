@@ -4,11 +4,11 @@ book_filename: "current-issues-capstone"
 output:
   word_document:
     toc: true
-  pdf_document:
-    toc: false
   html_document:
     toc: true
     theme: united
+  pdf_document:
+    toc: false
 ---
 
 ```{r setup, include=FALSE}
@@ -186,11 +186,9 @@ A weekly reflection assignment will be available on each week’s topic on Canva
 ## Literature Review Paper and Presentation (20% of grade = 200 points)
 You will prepare a literature review on a human-systems integration research topic. The literature review will be used for your proposal assignment. You will be asked to present your literature review in the form of a presentation and paper. Your literature review will be shared with the class and our guest speakers. You will have the option of early feedback so that you can anticipate your grade. This assignment will be assessed according to the rubric posted to Canvas. Maps to CLO2 and CLO4.
 
-## Proposal Paper and Presentation (20% of grade = 200 points)
+## Proposal Paper and Presentation (25% of grade = 249 points)
 You will prepare a proposal for a novel human-systems integration study. You will be asked to present your proposal in the form of a presentation and a paper. Your proposal will be shared with the class. Note that, unlike the weekly reflection assignments, this assignment may not be resubmitted. You will have the option of early feedback so that you can anticipate your grade. This assignment will be assessed according to the rubric posted to Canvas. Maps to CLO2 and CLO4.
 
-## Research Engagement: Attend a Conference (5% of grade = 49 points)
-Attend the free Spartan Annual Research Conference SPARC or another conference relevant to our course this semester. Alternative conference and assignment options, such as research participation, will be announced in class. You may also suggest an alternative assignment, and I will work with you to pre-approve a relevant assignment of similar effort. The due date for this assignment This assignment is graded for completion. Maps to CLO1 and CLO3.
 
 ## Description of Capstone Requirements
 As a capstone course, the following requirements will be met:
