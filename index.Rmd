@@ -4,11 +4,11 @@ book_filename: "current-issues-capstone"
 output:
   word_document:
     toc: true
+  pdf_document:
+    toc: false
   html_document:
     toc: true
     theme: united
-  pdf_document:
-    toc: false
 ---
 
 ```{r setup, include=FALSE}
@@ -177,16 +177,19 @@ The point totals reflect rounding up to the nearest percentage. For example, an 
 
 # Course Requirements and Assignments {#assignments}
 
+## Lecture Notes (10% of grade = 100 points)
+Take your own notes while watching the weekly videos. You may choose the format (typed, handwritten and scanned, etc.) of your notes, and they may be extensive or brief, whatever is most helpful to you. For full credit, submit notes covering every assigned video. Because this is credit for minimal rehearsal of the lecture content, you cannot use AI to summarize videos or slides for you. Eleven notes assignments will be worth 10 points each, and the lowest score will be dropped, for a total of 100 points. The grade may be reduced if the notes do not reflect the content of each lecture videos. Maps to CLO1-4.
+
 ## Weekly Reflection Assignments (45% of grade = 451 points)
 A weekly reflection assignment will be available on each week’s topic on Canvas. Eleven reflection assignments will be worth 41 points each, for a total of 451 points. Each assignment will be graded satisfactory/unsatisfactory according to the rubric posted to Canvas. Unsatisfactory assignments will receive feedback and can be resubmitted during the semester without a grade penalty. Maps to CLO1-4.
 
-## Literature Review Paper or Presentation (20% of grade = 200 points)
-You will prepare a literature review on a human-systems integration research topic. The literature review will be used for your proposal assignment. You will be asked to present your literature review in the form of a presentation or paper and put together an annotated bibliography. Your literature review will be shared with the class and our guest speakers. Note that, unlike the weekly reflection assignments, this assignment may not be resubmitted. However, I will offer you early feedback so that you can anticipate your grade. This assignment will be assessed according to the rubric posted to Canvas. Maps to CLO2 and CLO4.
+## Literature Review Paper and Presentation (20% of grade = 200 points)
+You will prepare a literature review on a human-systems integration research topic. The literature review will be used for your proposal assignment. You will be asked to present your literature review in the form of a presentation and paper. Your literature review will be shared with the class and our guest speakers. You will have the option of early feedback so that you can anticipate your grade. This assignment will be assessed according to the rubric posted to Canvas. Maps to CLO2 and CLO4.
 
-## Proposal Paper or Presentation (30% of grade = 300 points)
-You will prepare a proposal for a novel human-systems integration study. You will be asked to present your proposal in the form of a presentation or paper and put together an extended abstract. Your proposal will be shared with the class and our guest speakers. Note that, unlike the weekly reflection assignments, this assignment may not be resubmitted. However, I will offer you early feedback so that you can anticipate your grade. This assignment will be assessed according to the rubric posted to Canvas. Maps to CLO2 and CLO4.
+## Proposal Paper and Presentation (20% of grade = 200 points)
+You will prepare a proposal for a novel human-systems integration study. You will be asked to present your proposal in the form of a presentation and a paper. Your proposal will be shared with the class. Note that, unlike the weekly reflection assignments, this assignment may not be resubmitted. You will have the option of early feedback so that you can anticipate your grade. This assignment will be assessed according to the rubric posted to Canvas. Maps to CLO2 and CLO4.
 
-## Research Engagement: Attend a Conference (5% of grade = 50 points)
+## Research Engagement: Attend a Conference (5% of grade = 49 points)
 Attend the free Spartan Annual Research Conference SPARC or another conference relevant to our course this semester. Alternative conference and assignment options, such as research participation, will be announced in class. You may also suggest an alternative assignment, and I will work with you to pre-approve a relevant assignment of similar effort. The due date for this assignment This assignment is graded for completion. Maps to CLO1 and CLO3.
 
 ## Description of Capstone Requirements
@@ -272,7 +275,7 @@ Week Date                   Topics
 
 3	    Mon., Feb. 3          Sociotechnical systems and modeling; Elements of a research proposal                               
       
-4	    Mon., Feb. 10         Simulation and training; Publication ethics; **in-person class begins**     
+4	    Mon., Feb. 10         Simulation and training; Publication ethics 
       
 5	    Mon., Feb. 17         Decision making among cybersecurity professionals; Finding and reading literature   
 
@@ -282,9 +285,9 @@ Week Date                   Topics
 
 7	    Mon., Mar. 3          Medical product design; Citing literature; Patient safety                         
 
-8	    Mon., Mar. 10         HSI in Medicine: Error, teamwork, and digital health; Summarizing literature and identifying research needs 
+8	    Mon., Mar. 10         HSI in Medicine: Error, teamwork, and digital health; Summarizing literature and identifying research needs (speaker)
                   
-9	    Mon., Mar. 17         Human-automation interaction in transportation (speaker)
+9	    Mon., Mar. 17         Human-automation interaction in transportation
 
 10	  Mon., Mar. 24         Human performance: Workload, motion sickness, fatigue, sustained attention
 
@@ -292,7 +295,7 @@ Week Date                   Topics
 
 12	  Mon., Apr. 7          Literature review presentations
 
-13	  Mon., Apr. 14         Guest speaker: Lauren Claudatos, NASA Ames       Airspace coordination; Planning a study 
+13	  Mon., Apr. 14         Airspace coordination; Planning a study
 
 14	  Mon., Apr. 21         Cyberspace as a system: Cyber workforce, threats, automation and orchestration; scientific merit, societal impact, and implications for practice     
 
@@ -300,7 +303,7 @@ Week Date                   Topics
 
 16	  Mon., May 5           Proposal workshop  
 
-End   Mon., May 16          Last day of instruction, assignment submission ends 11:59 pm
+      Mon., May 12          Last day of instruction, make-up assignment submission ends 11:59 pm
 
 Final Fri., May 16	        Proposal presentations due 5:30 pm
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
