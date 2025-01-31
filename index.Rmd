@@ -4,11 +4,11 @@ book_filename: "current-issues-capstone"
 output:
   word_document:
     toc: true
+  pdf_document:
+    toc: false
   html_document:
     toc: true
     theme: united
-  pdf_document:
-    toc: false
 ---
 
 ```{r setup, include=FALSE}
@@ -302,13 +302,13 @@ Week Date                   Topics
 
 3	    Mon., Feb. 3          Sociotechnical systems and modeling; Elements of a research proposal                               
       
-4	    Mon., Feb. 10         Simulation and training; Publication ethics 
+4	    Mon., Feb. 10         Simulation and training 
       
-5	    Mon., Feb. 17         Decision making among cybersecurity professionals; Finding and reading literature   
+5	    Mon., Feb. 17         Funding sources; Publication and research ethics; Task analysis   
 
       Tue., Feb. 18         **Last day to drop or add**
 
-6	    Mon., Feb. 24         Decision making among cybersecurity professionals, continued                          
+6	    Mon., Feb. 24         Decision making among cybersecurity professionals; Finding and reading literature
 
 7	    Mon., Mar. 3          Medical product design; Citing literature; Patient safety                         
 
@@ -330,7 +330,7 @@ Week Date                   Topics
 
 16	  Mon., May 5           Proposal workshop  
 
-      Mon., May 12          Last day of instruction, make-up assignment submission ends 11:59 pm
+      Mon., May 12          Last day of instruction, assignment submission ends 11:59 pm
 
 Final Fri., May 16	        Proposal presentations due 5:30 pm
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
