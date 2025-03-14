@@ -4,11 +4,11 @@ book_filename: "current-issues-capstone"
 output:
   word_document:
     toc: true
-  pdf_document:
-    toc: false
   html_document:
     toc: true
     theme: united
+  pdf_document:
+    toc: false
 ---
 
 ```{r setup, include=FALSE}
@@ -312,9 +312,9 @@ Week Date                   Topics
 
 7	    Mon., Mar. 3          Medical product design; Citing literature; Patient safety                         
 
-8	    Mon., Mar. 10         HSI in Medicine: Error, teamwork, and digital health; Summarizing literature and identifying research needs (speaker)
+8	    Mon., Mar. 10         HSI in Medicine: Error, teamwork, and digital health; Summarizing literature and identifying research needs
                   
-9	    Mon., Mar. 17         Human-automation interaction in transportation
+9	    Mon., Mar. 17         User experience and human error in medicine and transportation
 
 10	  Mon., Mar. 24         Human performance: Workload, motion sickness, fatigue, sustained attention
 
@@ -322,7 +322,7 @@ Week Date                   Topics
 
 12	  Mon., Apr. 7          Literature review presentations
 
-13	  Mon., Apr. 14         Airspace coordination; Planning a study
+13	  Mon., Apr. 14         Automation and Airspace coordination; Planning a study
 
 14	  Mon., Apr. 21         Cyberspace as a system: Cyber workforce, threats, automation and orchestration; scientific merit, societal impact, and implications for practice     
 
