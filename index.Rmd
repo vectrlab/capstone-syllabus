@@ -4,11 +4,11 @@ book_filename: "current-issues-capstone"
 output:
   word_document:
     toc: true
+  pdf_document:
+    toc: false
   html_document:
     toc: true
     theme: united
-  pdf_document:
-    toc: false
 ---
 
 ```{r setup, include=FALSE}
@@ -324,7 +324,7 @@ Week Date                   Topics
 
 13	  Mon., Apr. 14         Automation and Airspace coordination; Planning a study
 
-14	  Mon., Apr. 21         Cyberspace as a system: Cyber workforce, threats, automation and orchestration; scientific merit, societal impact, and implications for practice     
+14	  Mon., Apr. 21         Cybersecurity professionals; Arguing for impact     
 
 15	  Mon., Apr. 28         Cybersecurity in daily life: Cyber hygiene, privacy, usability, trust; Assembling your proposal    
 
